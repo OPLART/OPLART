@@ -5,6 +5,8 @@
 ## Status:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OPLART&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPLART&layout=compact)](https://github.com/OPLART/github-readme-stats)
+
 
 ## Minhas Skills:
 <img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
@@ -15,12 +17,6 @@
 <a href="https://www.linkedin.com/in/miguelcorrea7/" target="blanck">
 <img align="center" alt="miguel-linkedin" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
-
-
-## Linguagens mais usadas:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPLART)](https://github.com/OPLART/github-readme-stats)
-
 
 
 

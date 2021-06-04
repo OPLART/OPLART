@@ -1,4 +1,6 @@
+
 ### Olá, seja bem vindo 👋
+<h1></h1>
 
 #### Meu nome é Miguel, sou um desenvolvedor Junior, com 6 meses de experiência em desenvolvimento Mobile. Possuo conhecimentos em React Native, Javascript, HTML e CSS. Tenho interesse em fazer grandes aplicações  e criar novos Apps, melhorar a minha prática de desenvolvimento e buscar novos desafios.
 

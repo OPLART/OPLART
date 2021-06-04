@@ -1,4 +1,4 @@
-## Olá, meu nome é Miguel
+## Olá 👋, meu nome é Miguel
 
 🔭 Atualmente estou trabalhando como Desenvolvedor Mobile, fazendo estágio <br>
 📚 Atualmente estou estudando React Native e JavaScript <br>

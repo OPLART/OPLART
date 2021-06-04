@@ -1,12 +1,17 @@
+## Olá, meu nome é Miguel
 
-### Olá, seja bem vindo 👋
+- 🔭 Atualmente estou trabalhando como Desenvolver Mobile, fazendo um estágio.
+- 🌱 Atualmete estou estudando React Native e JavaScript.
+- 📍 Moro em Porto Alegre, Canoas.
+- 🎈 Tenho 23 anos.
 <h1></h1>
 
-#### Meu nome é Miguel, sou um desenvolvedor Junior, com 6 meses de experiência em desenvolvimento Mobile. Possuo conhecimentos em React Native, Javascript, HTML e CSS. Tenho interesse em fazer grandes aplicações  e criar novos Apps, melhorar a minha prática de desenvolvimento e buscar novos desafios.
-
-## Status:
+## Estatísticas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OPLART&show_icons=true&theme=radical)
+
+## Linguagens mais usadas:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OPLART&layout=compact)](https://github.com/OPLART/github-readme-stats)
 
 ## Soft Skills:
@@ -23,18 +28,3 @@
 </a>
 
 
-
-<!--
-**OPLART/OPLART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

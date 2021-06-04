@@ -15,7 +15,7 @@
 ## Redes Sociais:
 
 <a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
-<img align="center" alt="miguel-linkedin" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+<img align="center" alt="miguel-linkedin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 

@@ -28,4 +28,8 @@
 <img align="center" alt="miguel-linkedin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="miguel-instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/128/1384/1384063.png">
+</a>
+
 

@@ -1,6 +1,6 @@
 ## Olá 👋, meu nome é Miguel
 
-🔭 Atualmente estou trabalhando como Desenvolvedor Mobile, fazendo estágio <br>
+🔭 Atualmente estou trabalhando como Desenvolvedor Mobile Jr, fazendo estágio <br>
 📚 Atualmente estou estudando React Native e JavaScript <br>
 📍 Moro em Porto Alegre, Canoas <br>
 🎈 Tenho 23 anos <br>

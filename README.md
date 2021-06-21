@@ -4,7 +4,7 @@
 ## Bio
 🔭 Atualmente estou trabalhando como Desenvolvedor Mobile Jr, fazendo estágio <br>
 📚 Atualmente estou estudando React Native, Redux e JavaScript <br>
-<img align="center" alt="miguel-instagram" height="18" width="18" src="https://image.flaticon.com/icons/png/512/197/197386.png"> Moro em Porto Alegre, Canoas <br>
+<img align="center" alt="miguel-instagram" height="18" width="18" src="https://image.flaticon.com/icons/png/512/197/197386.png">  Moro em Porto Alegre, Canoas <br>
 🎈 Tenho 23 anos <br>
 🚀 Junior Developer <br>
 <p>

@@ -49,7 +49,7 @@
 <a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
 <h1></h1>
-<a href="file:///E:/Certificados%20de%20Conclusao/CertificadoCursoReactNative.pdf" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
 </p>
 

@@ -34,19 +34,19 @@
 ## Certificados:
 
 <p align="justify">
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
 <h1></h1>
 <a href="" target="_blank">

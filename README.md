@@ -49,7 +49,7 @@
 <a href="" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
 <h1></h1>
-<a href="" target="_blank">
+<a src="certificate.png" target="_blank">
 <img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
 </p>
 

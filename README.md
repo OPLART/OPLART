@@ -34,9 +34,9 @@
 ## Certificados:
 
 <p>
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native(3)
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">HTML 5(1)
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">GIT(2)
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native (3)
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">HTML 5 (2)
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">GIT (2)
 </p>
 
 

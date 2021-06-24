@@ -31,6 +31,27 @@
 ## Skills:
 <img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"><img align="center" alt="miguel-linkedin" height="40" width="50" style="max-width: 100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
 
+## Certificados:
+
+<p align="justify">
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<a href="https://www.linkedin.com/in/miguelcorrea7/" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<h1></h1>
+<a href="file:///E:/Certificados%20de%20Conclusao/CertificadoCursoReactNative.pdf" target="_blank">
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+</p>
 
 
 

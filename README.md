@@ -33,24 +33,10 @@
 
 ## Certificados:
 
-<p align="justify">
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<a href="" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
-<h1></h1>
-<a src="certificate.png" target="_blank">
-<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native
+<p>
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">React Native(3)
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">HTML 5(1)
+<img align="center" alt="Certificado de React Native" height="30" width="40" src="certificate.png">GIT(2)
 </p>
 
 
